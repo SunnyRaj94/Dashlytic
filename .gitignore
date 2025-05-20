@@ -172,3 +172,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+#ignore data folder
+
+data/*
+
+# ignore jsons
+*.json
+
+# ignore __pycache__
+
+*/__pycache__
